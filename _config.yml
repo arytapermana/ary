@@ -1,0 +1,34 @@
+# Your Name or Company
+title: Arya Permana
+
+# Description of your website. This is used for social sharing.
+description:  Hanya sebuah landing page untuk menuntun anda menuju beberapa portfolio saya.
+
+# A brief blurb about yourself
+content: Hai! salam kenal, tidak ada yang spesial disini, hanya sebuah landing page untuk menuntun anda menuju beberapa portfolio saya, jadi jangan ragu lagi, klik link dibawah untuk mengetahui lebih lanjut, terimakasih!.
+
+# Add your social links
+social:
+  - platform: Work
+    url: https://www.instagram.com/_pisero/
+  - platform: Video Project
+    url: https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw
+  - platform: Web Project
+    url: https://disekitargame.com/
+  - platform: CV
+    url: https://drive.google.com/file/d/11n19CN28qv8PwIlUfPTw-sXK9xtdj62w/view?usp=sharing
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
+markdown: kramdown
+sharing_image: share.jpg
+#google_analytics: "UA-58263416-1" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
