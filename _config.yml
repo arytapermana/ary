@@ -1,16 +1,16 @@
 # Your Name or Company
-title: Arya Permana
+title: Arya P.
 
 # Description of your website. This is used for social sharing.
-description:  Hanya sebuah landing page untuk menuntun anda menuju beberapa portfolio saya.
+description:  Just a landing page to guide you to some of my portfolios.
 
 # A brief blurb about yourself
-content: Hai! salam kenal, tidak ada yang spesial disini, hanya sebuah landing page untuk menuntun anda menuju beberapa portfolio saya, jadi jangan ragu lagi, klik link dibawah untuk mengetahui lebih lanjut, terimakasih!
+content: Hi! nice to meet you, nothing special here, just a landing page to guide you to some of my portfolio, so don't hesitate, click the link below to find out more, thanks!
 
 # Add your social links
 social:
-  - platform: Work
-    url: https://www.instagram.com/_pisero/
+  - platform: Behance
+    url: https://www.behance.net/kadekaryab200
   - platform: Video Project
     url: https://www.youtube.com/channel/UCC71ynFPWO11J5X6Or84wsw
   - platform: Web Project
